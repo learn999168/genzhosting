@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Server Creator & Hosting",
+  "description": "Create and host high-performance Minecraft servers with 99.99% uptime, enterprise DDoS protection, Anycast low-latency network, and real-time management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
